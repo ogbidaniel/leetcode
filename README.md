@@ -1,5 +1,4 @@
 # LeetCode Practice Plan
-# LeetCode Practice Plan
 
 Structured repository for 1‑month intensive algorithms & data structures practice in Python and C++.
 
